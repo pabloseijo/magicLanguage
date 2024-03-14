@@ -1,5 +1,7 @@
 # Stop Using Antimagic Language
 
+![mage](mage.png)
+
 Welcome, fellow digital wizards, to your essential guide for translating the mundane language of the uninitiated into our sacred arcana. This compendium serves as a beacon, guiding you through the dark forests of antiquated terminology to the illuminated realms of magical syntax. Embrace this tome and let it transform your speech, infusing every word with the power of ancient digital sorcery.
 
 ## Table of Contents
