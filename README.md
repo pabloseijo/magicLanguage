@@ -14,7 +14,6 @@ Welcome to your essential guide for translating the mundane language of the unin
 - [System Operations](#system-operations)
 - [Networking](#networking)
 - [Contributing](#contributing)
-- [Arcane License](#arcane-license)
 
 - ![mage](mage.png)
 
